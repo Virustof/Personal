@@ -84,9 +84,9 @@
           <img src="assets/img/me.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3>Desarrollador &amp; Programador Web</h3>
+          <h3>Desarrollador &amp; Junior</h3>
           <p class="font-italic">
-            Operador, reparador de computadoras, Técnico en redes, Diseñador/Desarrollador web y Programador.
+            Full Stack
           </p>
           <div class="row">
             <div class="col-lg-6">
